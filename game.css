@@ -1,0 +1,36 @@
+body
+{
+	background: burlywood;
+}
+
+.login_div1 , .login_div2
+{
+	background: blueviolet;
+	padding: 10px;
+	float: none;
+	border-radius: 25px;
+}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 22px;
+}
+#word
+{
+	width: 65%;
+}
+#word_display
+{
+	letter-spacing: 7px;
+}
+#output
+{
+background: green;
+border-radius: 10px;
+border-top: 10px solid purple;
+padding: 15px;
+float: none;
+text-align: left;
+}
